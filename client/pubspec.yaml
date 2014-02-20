@@ -1,5 +1,5 @@
 name: dartdoc_viewer
-description: Dart API Reference
+description: AngularDart API Reference
 dependencies:
   browser: '>=0.10.0 <0.11.0'
   polymer: '>=0.10.0-pre.8 <0.11.0'
