@@ -22,5 +22,5 @@ client/local
 # Compiled python bytecode can be recreated by rerunning the scripts.
 *.pyc
 
-# Don't commit an actual config file
-client/asset/config.yaml
+# Don't commit an actual config file - actually for angulardartdoc skin we want to commit it
+# client/asset/config.yaml
